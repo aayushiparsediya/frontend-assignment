@@ -1,0 +1,463 @@
+.desktop-1-child,
+.rectangle-icon2 {
+  position: absolute;
+  left: 0;
+  width: 90rem;
+}
+.desktop-1-child {
+  top: 2.63rem;
+  background-color: var(--color-gray-200);
+  height: 46.75rem;
+}
+.rectangle-icon2 {
+  top: 2.56rem;
+  height: 46.81rem;
+  object-fit: cover;
+  opacity: 0.5;
+  mix-blend-mode: overlay;
+}
+.group-child2 {
+  position: absolute;
+  top: 13.48rem;
+  left: 27.94rem;
+  background-color: var(--pimary-colour);
+  width: 62.06rem;
+  height: 22.14rem;
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 63.19rem;
+  width: 22.94rem;
+  height: 23.22rem;
+}
+.jessica-radanavong-ichpbhfd0pw-icon1 {
+  position: absolute;
+  top: 0.25rem;
+  left: 56.19rem;
+  width: 27rem;
+  height: 40.93rem;
+  object-fit: cover;
+}
+.group-child4 {
+  position: absolute;
+  top: 13.48rem;
+  left: 27.94rem;
+  background-color: var(--pimary-colour);
+  width: 62.06rem;
+  height: 22.14rem;
+  opacity: 0.2;
+}
+.group-child5 {
+  position: absolute;
+  top: 30.75rem;
+  left: 59rem;
+  width: 4rem;
+  height: 5.57rem;
+}
+.div2,
+.oregon-jacket1 {
+  position: absolute;
+  left: 81.25rem;
+  display: inline-block;
+  height: 1.01rem;
+}
+.oregon-jacket1 {
+  top: 30.37rem;
+  text-transform: uppercase;
+  width: 7.31rem;
+}
+.div2 {
+  top: 31.57rem;
+  width: 1.94rem;
+}
+.group-child6 {
+  position: absolute;
+  top: 33.5rem;
+  left: -0.03rem;
+  border-top: 1px solid var(--grey-scale-000);
+  box-sizing: border-box;
+  width: 61.06rem;
+  height: 0.06rem;
+}
+.rectangle-group {
+  position: absolute;
+  top: 8.06rem;
+  left: 0;
+  width: 90rem;
+  height: 41.19rem;
+  font-size: var(--body-text-14-size);
+  color: var(--color-gray-200);
+}
+.philipp-arlt-8eyb-rvawty-unspl-icon1,
+.philipp-arlt-nmh9a0obon8-unspl-icon,
+.zam-nungaray-acw3b7q6ys0-unspl-icon1 {
+  position: absolute;
+  top: 62.38rem;
+  left: 42.63rem;
+  width: 19rem;
+  height: 20.13rem;
+  object-fit: cover;
+}
+.philipp-arlt-8eyb-rvawty-unspl-icon1,
+.philipp-arlt-nmh9a0obon8-unspl-icon {
+  left: 83.94rem;
+}
+.philipp-arlt-8eyb-rvawty-unspl-icon1 {
+  left: 21.63rem;
+  width: 19.38rem;
+}
+.lorem-ipsum-dolor4,
+.lorem-ipsum-dolor5 {
+  position: absolute;
+  font-family: var(--subtitles);
+  display: inline-block;
+  width: 43.06rem;
+  height: 9.44rem;
+}
+.lorem-ipsum-dolor4 {
+  top: 17.5rem;
+  left: 7.19rem;
+  font-size: var(--h1-title-size);
+  line-height: 6.41rem;
+  font-weight: 800;
+  -webkit-text-stroke: 1px #fff;
+}
+.lorem-ipsum-dolor5 {
+  top: 53.75rem;
+  left: 5.19rem;
+  font-size: var(--h2-title-size);
+  font-weight: 600;
+  color: var(--grey-scale-1000);
+}
+.lorem-ipsum-dolor6,
+.lorem-ipsum-dolor7 {
+  position: absolute;
+  top: 31.56rem;
+  left: 11.69rem;
+  font-size: var(--h1-title-size);
+  line-height: 6.41rem;
+  font-weight: 800;
+  font-family: var(--subtitles);
+  -webkit-text-stroke: 1px #fff;
+}
+.lorem-ipsum-dolor7 {
+  top: 24.75rem;
+  left: 26.5rem;
+  display: inline-block;
+  width: 44.38rem;
+  height: 9rem;
+  -webkit-text-stroke: 2px #fff;
+}
+.apparel1 {
+  top: 62.44rem;
+}
+.accessories1,
+.apparel1,
+.best-sellers1,
+.off1 {
+  position: absolute;
+  left: 5.69rem;
+  color: var(--grey-scale-1000);
+}
+.accessories1 {
+  top: 65.19rem;
+  font-size: var(--subtitles-size);
+  font-weight: 600;
+  font-family: var(--subtitles);
+}
+.best-sellers1,
+.off1 {
+  top: 68.38rem;
+}
+.off1 {
+  top: 71.13rem;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 90rem;
+  height: 2.63rem;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 130.13rem;
+  left: -0.56rem;
+  background-color: var(--grey-scale-1000);
+  width: 90.94rem;
+  height: 4.13rem;
+}
+.icon1 {
+  position: absolute;
+  top: 97.63rem;
+  left: 0;
+  width: 90rem;
+  height: 32.5rem;
+  object-fit: cover;
+}
+.about1,
+.home1 {
+  position: absolute;
+  top: 7.19rem;
+  left: 8.56rem;
+  display: inline-block;
+  width: 4.44rem;
+  height: 1.75rem;
+  -webkit-text-stroke: 1px #fff;
+}
+.about1 {
+  left: 19.63rem;
+  width: 4.38rem;
+}
+.copyright-2022-all1 {
+  position: absolute;
+  top: 131.63rem;
+  left: 37.56rem;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+}
+.bag-0,
+.contact-us1,
+.shopkart2,
+.wishlist-0 {
+  position: absolute;
+  -webkit-text-stroke: 1px #fff;
+}
+.contact-us1 {
+  top: 7.19rem;
+  left: 47.19rem;
+  display: inline-block;
+  width: 7.38rem;
+  height: 1.75rem;
+}
+.bag-0,
+.shopkart2,
+.wishlist-0 {
+  top: 4.38rem;
+  left: 81.19rem;
+  font-size: var(--body-text-14-size);
+}
+.shopkart2,
+.wishlist-0 {
+  left: 75rem;
+}
+.shopkart2 {
+  top: 2.56rem;
+  left: 5.63rem;
+  font-size: var(--font-size-21xl);
+  font-weight: 200;
+  font-family: var(--font-poppins);
+}
+.free-delivery2 {
+  top: 0.81rem;
+  left: 7.38rem;
+  font-size: var(--font-size-xs);
+}
+.follow-us,
+.free-delivery2,
+.login2,
+.return-policy2 {
+  position: absolute;
+  font-family: var(--font-poppins);
+  color: var(--color-dimgray);
+}
+.return-policy2 {
+  top: 0.81rem;
+  left: 13.88rem;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 6.81rem;
+  height: 0.94rem;
+}
+.follow-us,
+.login2 {
+  top: 0.88rem;
+  left: 72.75rem;
+  font-size: var(--font-size-3xs);
+}
+.follow-us {
+  left: 76.63rem;
+}
+.layer-156-icon2 {
+  position: absolute;
+  top: 0.94rem;
+  left: 5.63rem;
+  width: 1.31rem;
+  height: 0.81rem;
+}
+.vector-icon10,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  top: 1.06rem;
+  left: 80.44rem;
+  width: 0.28rem;
+  height: 0.48rem;
+}
+.vector-icon10,
+.vector-icon9 {
+  left: 81.44rem;
+  width: 0.5rem;
+}
+.vector-icon10 {
+  top: 1.13rem;
+  left: 82.69rem;
+  width: 0.48rem;
+  height: 0.35rem;
+}
+.desktop-1-child1 {
+  position: absolute;
+  top: 1.06rem;
+  left: 83.88rem;
+  width: 0.5rem;
+  height: 0.5rem;
+}
+.desktop-1-child2 {
+  position: absolute;
+  top: 0.66rem;
+  left: 12.97rem;
+  border-right: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 0.06rem;
+  height: 1.25rem;
+}
+.desktop-1-child3,
+.desktop-1-child4 {
+  position: absolute;
+  top: 5.44rem;
+  left: 5.63rem;
+  width: 78.75rem;
+  height: 1.38rem;
+}
+.desktop-1-child4 {
+  top: 59.63rem;
+  left: 4.19rem;
+  width: 41.19rem;
+}
+.blank-line1 {
+  margin: 0;
+}
+.get-news-about-container1,
+.newslleter1 {
+  position: absolute;
+  top: 103.81rem;
+  left: 6.44rem;
+  color: var(--grey-scale-200);
+  display: inline-block;
+  width: 21.06rem;
+  height: 3.25rem;
+}
+.newslleter1 {
+  top: 102.75rem;
+  font-size: var(--subtitles-size);
+  font-weight: 600;
+  font-family: var(--subtitles);
+  width: 24.06rem;
+}
+.email-formgroup,
+.message-formgroup,
+.name-formgroup {
+  width: 18.94rem;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 102.75rem;
+  left: 39.38rem;
+}
+.email-formgroup,
+.message-formgroup {
+  top: 106.81rem;
+}
+.message-formgroup {
+  top: 111.13rem;
+}
+.desktop-1-child5,
+.desktop-1-child6 {
+  position: absolute;
+  top: 57.63rem;
+  left: 80.03rem;
+  width: 3.47rem;
+  height: 0.36rem;
+}
+.desktop-1-child6 {
+  left: 73.63rem;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 115.38rem;
+  left: 5.63rem;
+  font-size: var(--h1-title-size);
+  line-height: 6.41rem;
+  font-weight: 800;
+  font-family: var(--subtitles);
+  display: inline-block;
+  width: 72.44rem;
+  height: 14.75rem;
+  -webkit-text-stroke: 1px #fff;
+}
+.desktop-1-child7,
+.desktop-1-child8,
+.desktop-1-child9 {
+  position: absolute;
+  top: 104.59rem;
+  left: 38.47rem;
+  border-top: 1px solid var(--grey-scale-000);
+  box-sizing: border-box;
+  width: 34.94rem;
+  height: 0.06rem;
+}
+.desktop-1-child8,
+.desktop-1-child9 {
+  top: 108.66rem;
+}
+.desktop-1-child9 {
+  top: 112.97rem;
+}
+.button-item {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 2px solid var(--pimary-colour);
+  box-sizing: border-box;
+  width: 11.31rem;
+  height: 11.31rem;
+}
+.button-item,
+.button1,
+.send1 {
+  position: absolute;
+}
+.send1 {
+  top: 5.19rem;
+  left: 3.44rem;
+  line-height: 1rem;
+}
+.button1 {
+  top: 113.88rem;
+  left: 72.63rem;
+  width: 11.31rem;
+  height: 11.31rem;
+  font-size: var(--subtitles-size);
+  color: var(--pimary-colour);
+}
+.malicki-m-beser-pkmvkg7vnuo-un-icon {
+  position: absolute;
+  top: 62.38rem;
+  left: 63.25rem;
+  width: 19.06rem;
+  height: 20.13rem;
+  object-fit: cover;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--grey-scale-000);
+  width: 100%;
+  height: 134.25rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-text-18-size);
+  color: var(--grey-scale-000);
+  font-family: var(--body-text-14);
+}
